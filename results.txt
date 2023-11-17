@@ -1,0 +1,218 @@
+Cluster 0:       
+- Non-euclidean  
+- Non-compliance!
+Cluster 1:
+- Procedural generation
+- procedural
+- Alternate solutions
+- Self replication
+- Mutual Aid
+Cluster 2:
+- reverse engineering / reverse planning
+- greater then the sum of its parts     
+- Bring it back
+Cluster 3:
+- Momentum
+- Reflection
+- Rubber-banding
+- Regret
+- obscure
+- Drag and Drop
+Cluster 4:
+- The only winning move is not to play
+- The best stealth is honesty
+- The Mighty Always Fall
+- The bigger they are, the softer they fall
+- The Caverns Below
+Cluster 5:
+- Dealt a bad hand
+- Time speed manipulation
+- Wonderland
+- Ghost
+- Collective Consciousness
+- Extra dimensional
+- SteamCat
+- Game within a game
+- Balance
+Cluster 6:
+- Hats
+- Candyland Mayhem !!
+- Cats
+- Grow / Spread
+- boids
+- Bounce
+- Cog in a machine
+- Carts
+- Birds
+- Lifecycle
+- Dueling
+- Voronoi
+- Cute gore
+Cluster 7:
+- Asbestos removal
+- If it's hostile, you kill it
+- what is in the fridge
+- As Above So Below
+Cluster 8:
+- Letters
+- I am legion
+- Shepherdess
+- I don't wanna
+- Never Alone
+- I would prefer not to
+Cluster 9:
+- Malfunction
+- Swarms
+- Spiral
+- Misdirection
+- Mining
+- Sustainable game dev
+Cluster 10:
+- Pathways
+- 2nd person
+- Endgame
+- Out of bounds
+- Out of order
+Cluster 11:
+- “Middle management” (make your company as unproductive as possible)
+- Dungeons
+- Utilitarianism
+- Unfold
+- Unhelpful ally
+- Unorthodox locomotion
+Cluster 12:
+- splice and recombine / specialisation
+- Evolution
+- scattering
+- exponential
+- transition
+Cluster 13:
+- Remorse
+- Wrong Genre
+- Instructions unclear
+- Conflict
+- Rewrite
+- Incremental
+- Industrial
+- instability
+- Expansion
+- Autonomous Agents
+- Equilibrium
+- Destructible Environments
+Cluster 14:
+- Copycat
+- Ctrl + Z
+Cluster 15:
+- Bird
+- Pressure
+- entirely too complicated
+- use more gun
+- Fishy
+- inception
+- insect, bug
+- Bird wars
+- fruit game
+- light and darkness
+- Leaderboard lies
+- pinball
+- falling
+- AI assistant
+- act first, think later
+- Bug that became a feature/Broken game gameplay
+- close
+- Revolution
+Cluster 16:
+- Do it, I dare you.
+- Too Many Buttons
+- Try not to win
+- Too many assets
+- Try again
+- Words are power
+- Next Step
+Cluster 17:
+- novel systems of commerce to save the world.
+- every time the light goes out someone turns into a skeleton
+Cluster 18:
+- Future retro
+- Life
+- Trust no one, not even yourself
+- Use what you would normally discard
+- Lost control
+- save the planet
+- Unknown rules
+- Take the wheel
+- Contact
+- Discover Your Precursors
+- On the way out
+Cluster 19:
+- You are not one
+Cluster 20:
+- Half
+Cluster 21:
+- Deep In The Mines
+- Fight without weapons
+- Run
+- Map
+- Get over here!
+- Destroy to create
+- Innovate or die
+Cluster 22:
+- Stealth garden
+- Glory to Mars
+- Swarm
+- Swarm
+- Swarm
+- surreal
+- Shared
+- Flipped
+- Spontaneous combustion
+Cluster 23:
+- What goes up must come down
+- Keeping up appearances
+- Community.
+- Looking back
+- When I was a kid, I ate crayons. Blue tastes best.
+- taking notes
+- That's a LOT of entities!
+Cluster 24:
+- Changing Directions
+- One Big Problem
+- Choose your own adventure
+- Better with Friends
+- Strength in Unity
+- First-come, first-served
+- One shot
+- Growing
+Cluster 25:
+- goblin mode
+Cluster 26:
+- Go big or go home
+- 5 minutes left
+- Parkour
+- Be the first
+- Float
+- War is peace
+- pet
+Cluster 27:
+- Surprise!
+- Revenge fails
+- Pre-apocalyptic
+Cluster 28:
+- Nesting
+- Zugzwang
+- Joke's on you I'm into that
+- Turing complete
+- Upside down
+- Nested
+- Escape
+- Oops
+- Ecosystem
+Cluster 29:
+- Frozen Heart
+- Powered
+- Fractal Diplomacy
+- Fractals
+- Frenemy
+- Indivisible
+- Stuck in a fake game ad
+- Falling
